@@ -16,3 +16,6 @@ There are many areas in which text generation involved:
 automated answering robot (chatbot)
 
 Our system aims to generate text automatically (Generate stories and generate Arabic quotes motivation) based on a series of input news and stories, The reason behind this is Natural Language Processing. Using NLP, it is possible to analysis text any find necessary information. Not only English or any particular language, NLP can be applied to any language if it has its own Unicode or computerized form. also, we used RNN and LSTM to train Model and automatic generate text
+
+## **demonstration video**
+
