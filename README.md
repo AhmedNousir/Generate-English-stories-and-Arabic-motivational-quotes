@@ -19,3 +19,4 @@ Our system aims to generate text automatically (Generate stories and generate Ar
 
 ## **demonstration video**
 
+https://youtu.be/4097xvMjLKQ
